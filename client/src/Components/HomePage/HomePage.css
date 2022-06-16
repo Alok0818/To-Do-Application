@@ -1,0 +1,111 @@
+.HomePage{
+    /* border: 2px solid red; */
+   
+    width: 84%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.MainTodo{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.MainTodo>div{
+    /* border: 2px solid green; */
+    width: 100%;
+    height: 500px;
+}
+
+.TodoHeading{
+    border: 1px solid #00092C;
+    background-color: #CCF3EE;
+    margin-bottom: 5%;
+}
+
+.MainTodo>div>div>p{
+    font-size: larger;
+    font-weight: bolder;
+    /* border: 1px solid black; */
+}
+
+.Card{
+    /* border: 2px solid #FF5F00 !important; */
+    background-color: #EEEEEE;
+    width: 70%;
+    height: auto;
+    padding-bottom: 5%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.CardButton>button:nth-child(1){
+    /* border: 2px solid green; */
+    background-color: #B20600;
+    border: transparent;
+    color: #EEEEEE;
+    font-weight: bold;
+    margin-right: 5%;
+    padding: 3%;
+    width: 60px;
+}
+
+.CardButton>button:nth-child(2){
+    /* border: 2px solid blue; */
+    background-color: #B20600;
+    border: transparent;
+    color: #EEEEEE;
+    font-weight: bold;
+    padding: 3%;
+    width: 60px;
+}
+
+.cardTopDelete{
+/* border: 2px solid palevioletred; */
+display: flex;
+}
+
+.cardstatus{
+    /* border: 2px solid blue; */
+    /* text-align: end; */
+    /* margin-right: 3%; */
+    /* margin: 0px !important; */
+    margin-left: 43%;
+    padding-top: 5%;
+    
+    
+}
+.cardstatus>p{
+    width: auto;
+    /* border: 2px solid blue; */
+    margin: 0px ;
+    padding-top: 2%;
+    color: #00092C;
+    font-weight: bold;
+}
+.Delete{
+    /* border: 2px solid blue; */
+    margin-left: 25%;
+    padding-top: 3%;
+}
+.Delete>:hover{
+    color: red;
+    cursor: pointer;
+}
+
+
+.EditButton{
+    /* border: 2px solid blue; */
+    margin-top: 4%;
+    
+}
+
+.EditButton>button{
+    background-color: #FF7272;
+    border: transparent;
+    color: #000B49;
+    font-weight: bold;
+    padding: 1%;
+    width: 60px;
+}
+
