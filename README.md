@@ -12,3 +12,7 @@ https://drive.google.com/file/d/1ffCzg5pDOmPV8g3HHNqGiJe9zr1Jo74I/view?usp=shari
 ## Delete a To-Do from Home Page
 #### A user can delete a To_Do Task from Home page by clicking on the delete icon on the To-Do Card 
 <img width="910" alt="image" src="https://user-images.githubusercontent.com/96105012/168329438-675d9a2b-98de-474a-b5ea-ad6618bce4dd.png">
+
+## Edit a To-Do from Edit Page
+#### A user can Edit a To_Do Task from Edit Page by clicking on Edit Page
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/96105012/168329570-5ecd4573-0b1f-4887-9fd8-d104d5787473.png">
