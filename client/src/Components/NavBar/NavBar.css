@@ -1,0 +1,12 @@
+.NavBar{
+    /* border: 2px solid #FF5F00; */
+    background-color: #EEEEEE;
+}
+
+.NavBar>div{
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: large;
+}
